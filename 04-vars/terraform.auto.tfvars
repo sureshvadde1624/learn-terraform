@@ -1,1 +1,1 @@
-sample1 = "Hello Sample1 from  Auto"
+sample1 = "Hello Sample1 from Auto"
